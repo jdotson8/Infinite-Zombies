@@ -1,0 +1,3 @@
+READ ME
+This is a classic isometric zombie shooter. You can move around a map and shoot zombies that randomly spawn throughout the world. The goal is to see how many kills you can get before your health is depleted to zero. Because this is an arcade style game, there isn't really a win or lose. You must simply try to beat your previous scores.
+I wrote the entire engine and did all the sprites myself. It is still far from what I would have liked to have, but given the time constraints, I am proud of the finished product. Enjoy!
